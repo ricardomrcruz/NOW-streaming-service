@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/client/components/router-reducer/create-router-cache-key.ts"],"names":["createRouterCacheKey","segment","Array","isArray"],"mappings":"AAEA,OAAO,SAASA,qBAAqBC,OAAgB,EAAE;IACrD,OAAOC,MAAMC,OAAO,CAACF,WACjB,CAAC,EAAEA,OAAO,CAAC,EAAE,CAAC,CAAC,EAAEA,OAAO,CAAC,EAAE,CAAC,CAAC,EAAEA,OAAO,CAAC,EAAE,CAAC,CAAC,GAC3CA,OAAO;AACb,CAAC"}

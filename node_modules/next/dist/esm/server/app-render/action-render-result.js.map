@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/server/app-render/action-render-result.ts"],"names":["RenderResult","ActionRenderResult","constructor","response","contentType"],"mappings":"AAAA,OAAOA,kBAAkB,mBAAkB;AAE3C;;CAEC,GACD,OAAO,MAAMC,2BAA2BD;IACtCE,YAAYC,QAAgB,CAAE;QAC5B,KAAK,CAACA,UAAU;YAAEC,aAAa;QAAmB;IACpD;AACF,CAAC"}

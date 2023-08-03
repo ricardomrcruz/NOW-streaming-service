@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/server/app-render/action-render-result.ts"],"names":["ActionRenderResult","RenderResult","constructor","response","contentType"],"mappings":";;;;+BAKaA;;;eAAAA;;;qEALY;;;;;;AAKlB,MAAMA,2BAA2BC,qBAAY;IAClDC,YAAYC,QAAgB,CAAE;QAC5B,KAAK,CAACA,UAAU;YAAEC,aAAa;QAAmB;IACpD;AACF"}
