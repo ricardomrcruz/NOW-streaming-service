@@ -1,0 +1,5 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore specific large file
+node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
