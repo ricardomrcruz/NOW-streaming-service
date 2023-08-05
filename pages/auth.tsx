@@ -101,7 +101,7 @@ const Auth = () => {
                         <button onClick={variant === 'login' ? login : register} className="bg-blue-600 py-3 text-white rounded-md w-full mt-10 hover:bg-blue-700 transition ">
                             {variant === 'login' ? 'Login' : 'Sign Up'}
                         </button>
-                        <div className='flex flex-row items-center gap-4 mt-8 justify-center'>
+                        {/* <div className='flex flex-row items-center gap-4 mt-8 justify-center'>
                             <div 
                             onClick={() => signIn('google', { callbackUrl: '/profiles'})}
                             className="
@@ -133,7 +133,7 @@ const Auth = () => {
                             <FaGithub size={30} />
 
                             </div>
-                        </div>
+                        </div> */}
                         <p className="text-neutral-500 mt-12">
                             {variant === 'login' ? 'First time using Now®?' : 'Already have an account?'} <span onClick={toggleVariant} className="text-white ml-1 hover:underline cursor-pointer">{variant === 'login' ? 'Create an account' : 'Login'}</span>
                         </p>
