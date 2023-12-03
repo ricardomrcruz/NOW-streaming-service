@@ -1,3 +1,7 @@
+
+![Alt text]([URL](https://www.strasbourgwebsolutions.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb1.fcfbf2bc.png&w=1080&q=75))
+
+
 This is a video, music and media streaming service for exclusive and controversial content. 
 With Now, artists and content creators can express their work in a free manner without being judged and victims of shadow ghosting and demonetisation. 
 As part of the charather of this app, it is legislated as a plataform that sells ficticious content. 
