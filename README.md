@@ -1,5 +1,6 @@
 
-![Alt text]([URL](https://www.strasbourgwebsolutions.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb1.fcfbf2bc.png&w=1080&q=75))
+![Alt text](https://www.strasbourgwebsolutions.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb1.fcfbf2bc.png&w=1080&q=75)
+
 
 
 This is a video, music and media streaming service for exclusive and controversial content. 
